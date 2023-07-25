@@ -20,7 +20,6 @@ dependencies:
   - r-reshape2
   - r-tidyverse
   - r-plotly
-  - r-shiny
   - r-stringr
   - pip
   - pip:
@@ -28,4 +27,3 @@ dependencies:
     - matplotlib
     - scikit-learn
     - numpy
-    -
